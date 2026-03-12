@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "FilmesAPI.Controllers.FilmeController",
+    "Method": "AdicionarFilme",
+    "RelativePath": "Filme",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filme",
+        "Type": "FilmesAPI.Models.Filme",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

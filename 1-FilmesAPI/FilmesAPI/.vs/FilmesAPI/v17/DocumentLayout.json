@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Documents\\work\\estudos-csharp\\PlaylistProject\\FilmesAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "RelativeToolTip": "FilmesAPI\\Models\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:34:15.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:28:15.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FilmesAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FilmesAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T18:15:19.781Z",
+              "EditorCaption": ""
             }
           ]
         }
