@@ -40,17 +40,25 @@
   "components": {
     "schemas": {
       "Filme": {
+        "required": [
+          "duracao",
+          "genero",
+          "titulo"
+        ],
         "type": "object",
         "properties": {
           "titulo": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "genero": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 50,
+            "minLength": 1,
+            "type": "string"
           },
           "duracao": {
+            "maximum": 600,
+            "minimum": 70,
             "type": "integer",
             "format": "int32"
           }
