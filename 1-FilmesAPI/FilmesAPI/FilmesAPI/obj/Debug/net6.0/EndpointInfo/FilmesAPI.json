@@ -122,6 +122,7 @@
         "required": [
           "duracao",
           "genero",
+          "id",
           "titulo"
         ],
         "type": "object",
