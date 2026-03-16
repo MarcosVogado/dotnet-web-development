@@ -43,3 +43,5 @@ C:\Users\marco\OneDrive\Documents\work\dotnet-web-development\1-FilmesAPI\Filmes
 C:\Users\marco\OneDrive\Documents\work\dotnet-web-development\1-FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\marco\OneDrive\Documents\work\dotnet-web-development\1-FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\marco\OneDrive\Documents\work\dotnet-web-development\1-FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\marco\OneDrive\Documents\work\dotnet-web-development\1-FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\marco\OneDrive\Documents\work\dotnet-web-development\1-FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
