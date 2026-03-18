@@ -66,8 +66,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\UpdateFilmeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:34:44.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:34:44.73Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "FilmesAPI\\Profiles\\FilmeProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:01:54.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:01:54.092Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\CreateFilmeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T17:48:19.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T17:48:19.991Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "FilmesAPI\\Migrations\\FilmeContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T16:57:59.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T16:57:59.596Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "FilmesAPI\\Migrations\\20260316161744_CriandoTabelaDeFilme.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T16:57:52.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T16:57:52.143Z"
             },
             {
               "$type": "Document",
@@ -131,8 +126,7 @@
               "RelativeToolTip": "FilmesAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:59:11.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:59:11.377Z"
             },
             {
               "$type": "Document",
@@ -144,8 +138,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\FilmeContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:50:07.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:50:07.411Z"
             },
             {
               "$type": "Document",
@@ -157,8 +150,7 @@
               "RelativeToolTip": "FilmesAPI\\Models\\Filme.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T18:34:15.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T18:34:15.796Z"
             },
             {
               "$type": "Document",
@@ -168,7 +160,7 @@
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
               "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T18:28:15.915Z",
               "EditorCaption": ""
