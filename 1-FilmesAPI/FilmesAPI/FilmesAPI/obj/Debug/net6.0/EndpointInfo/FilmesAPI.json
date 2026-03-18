@@ -72,7 +72,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Filme"
+                    "$ref": "#/components/schemas/ReadFilmeDto"
                   }
                 }
               },
@@ -80,7 +80,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Filme"
+                    "$ref": "#/components/schemas/ReadFilmeDto"
                   }
                 }
               },
@@ -88,7 +88,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Filme"
+                    "$ref": "#/components/schemas/ReadFilmeDto"
                   }
                 }
               }
@@ -220,6 +220,27 @@
             "description": "Success"
           }
         }
+      },
+      "delete": {
+        "tags": [
+          "Filme"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
       }
     }
   },
@@ -240,37 +261,6 @@
           "genero": {
             "maxLength": 50,
             "minLength": 0,
-            "type": "string"
-          },
-          "duracao": {
-            "maximum": 600,
-            "minimum": 70,
-            "type": "integer",
-            "format": "int32"
-          }
-        },
-        "additionalProperties": false
-      },
-      "Filme": {
-        "required": [
-          "duracao",
-          "genero",
-          "id",
-          "titulo"
-        ],
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "titulo": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "genero": {
-            "maxLength": 50,
-            "minLength": 1,
             "type": "string"
           },
           "duracao": {
@@ -318,6 +308,32 @@
         ],
         "type": "integer",
         "format": "int32"
+      },
+      "ReadFilmeDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "titulo": {
+            "type": "string",
+            "nullable": true
+          },
+          "genero": {
+            "type": "string",
+            "nullable": true
+          },
+          "duracao": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "horaDaConsulta": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
       },
       "UpdateFilmeDto": {
         "required": [
