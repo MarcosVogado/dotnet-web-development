@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "FilmesAPI",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
     "/Filme": {
@@ -10,7 +10,9 @@
         "tags": [
           "Filme"
         ],
+        "summary": "Adiciona um filme ao banco de dados",
         "requestBody": {
+          "description": "Objeto com os campos necessários para criação de um filme",
           "content": {
             "application/json-patch+json": {
               "schema": {
@@ -35,8 +37,8 @@
           }
         },
         "responses": {
-          "200": {
-            "description": "Success"
+          "201": {
+            "description": "Caso inserção seja feita com sucesso"
           }
         }
       },

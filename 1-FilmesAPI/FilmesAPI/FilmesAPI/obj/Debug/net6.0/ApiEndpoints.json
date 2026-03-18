@@ -13,7 +13,13 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 201
+      }
+    ]
   },
   {
     "ContainingType": "FilmesAPI.Controllers.FilmeController",
