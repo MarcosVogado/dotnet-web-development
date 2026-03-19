@@ -25,13 +25,25 @@ public class CinemaController : ControllerBase
         Cinema cinema = _mapper.Map<Cinema>(cinemaDto);
         _context.Cinemas.Add(cinema);
         _context.SaveChanges();
-        return CreatedAtAction(nameof(RecuperarCinemaPorId), new { id = cinema.Id }, cinema);
+        return CreatedAtAction(nameof(RecuperarCinemasPorId), new { id = cinema.Id }, cinemaDto);
     }
 
     [HttpGet]
-    public IEnumerable<ReadCinemaDto> RecuperarCinemas([FromQuery] int skip = 0, int take = 50)
+    public IEnumerable<ReadCinemaDto> RecuperarCinemas()
     {
-        return _mapper.Map<List<ReadCinemaDto>>(_context.Cinemas.Skip(skip).Take(take));
+        return _mapper.Map<List<ReadCinemaDto>>(_context.Cinemas.ToList());
+    }
+
+    [HttpGet("{id}")]
+    public IActionResult RecuperarCinemasPorId(int id)
+    {
+        Cinema cinema = _context.Cinemas.FirstOrDefault(cinema => cinema.Id == id);
+        if(cinema is not null)
+        {
+            ReadCinemaDto cinemaDto = _mapper.Map<ReadCinemaDto>(cinema);
+            return Ok(cinemaDto);
+        }
+        return NotFound();
     }
 
     [HttpPut("{id}")]
