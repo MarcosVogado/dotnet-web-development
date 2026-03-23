@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\data\\dtos\\createsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\dtos\\createsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\migrations\\20260323191939_sess\u00E3o e filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\migrations\\20260323191939_sess\u00E3o e filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\controllers\\sessaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\sessaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\profiles\\sessaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\profiles\\sessaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\data\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\dtos\\readsessaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\marco\\onedrive\\documents\\work\\dotnet-web-development\\1-filmesapi\\filmesapi\\filmesapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BAE6DD7-8966-4651-9D68-BB3D15222800}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +67,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20260323191939_Sess\u00E3o e Filme.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Migrations\\20260323191939_Sess\u00E3o e Filme.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Migrations\\20260323191939_Sess\u00E3o e Filme.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Migrations\\20260323191939_Sess\u00E3o e Filme.cs",
+              "RelativeToolTip": "FilmesAPI\\Migrations\\20260323191939_Sess\u00E3o e Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T19:19:40.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "RelativeToolTip": "FilmesAPI\\Models\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T19:16:16.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Data\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Data\\FilmeContext.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Data\\FilmeContext.cs",
+              "RelativeToolTip": "FilmesAPI\\Data\\FilmeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:19:20.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessaoController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\SessaoController.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\SessaoController.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\SessaoController.cs",
+              "RelativeToolTip": "FilmesAPI\\Controllers\\SessaoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:57:09.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessaoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Profiles\\SessaoProfile.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Profiles\\SessaoProfile.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Profiles\\SessaoProfile.cs",
+              "RelativeToolTip": "FilmesAPI\\Profiles\\SessaoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:54:12.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSessaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\CreateSessaoDto.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Data\\Dtos\\CreateSessaoDto.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\CreateSessaoDto.cs",
+              "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\CreateSessaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:53:19.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadSessaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\ReadSessaoDto.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Data\\Dtos\\ReadSessaoDto.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\ReadSessaoDto.cs",
+              "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\ReadSessaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:52:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Sessao.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Models\\Sessao.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Sessao.cs",
+              "RelativeToolTip": "FilmesAPI\\Models\\Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:50:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CinemaProfile.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Profiles\\CinemaProfile.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Profiles\\CinemaProfile.cs",
@@ -47,20 +183,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "CinemaController.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\CinemaController.cs",
               "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\CinemaController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\CinemaController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T15:39:15.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Program.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Program.cs",
