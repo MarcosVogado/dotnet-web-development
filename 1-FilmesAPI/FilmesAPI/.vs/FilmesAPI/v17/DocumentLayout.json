@@ -86,8 +86,7 @@
               "RelativeToolTip": "FilmesAPI\\Migrations\\20260319190048_Cinema e Endereco.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T19:00:48.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T19:00:48.694Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\ReadCinemaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:58:14.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:58:14.823Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\CreateCinemaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:57:23.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:57:23.132Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "FilmesAPI\\Profiles\\EnderecoProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:47:04.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:47:04.316Z"
             },
             {
               "$type": "Document",
@@ -138,8 +134,7 @@
               "RelativeToolTip": "FilmesAPI\\Controllers\\EnderecoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:43:50.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:43:50.024Z"
             },
             {
               "$type": "Document",
@@ -151,8 +146,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\UpdateEnderecoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:43:22.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:43:22.196Z"
             },
             {
               "$type": "Document",
@@ -164,8 +158,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\ReadEnderecoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:42:54.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:42:54.984Z"
             },
             {
               "$type": "Document",
@@ -177,8 +170,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\CreateEnderecoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:42:03.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:42:03.283Z"
             },
             {
               "$type": "Document",
@@ -190,8 +182,7 @@
               "RelativeToolTip": "FilmesAPI\\Models\\Endereco.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T18:33:59.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T18:33:59.523Z"
             },
             {
               "$type": "Document",
@@ -203,8 +194,7 @@
               "RelativeToolTip": "FilmesAPI\\Profiles\\CinemaProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T17:59:04.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T17:59:04.234Z"
             },
             {
               "$type": "Document",
@@ -216,8 +206,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\FilmeContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T17:57:18.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T17:57:18.207Z"
             },
             {
               "$type": "Document",
@@ -227,7 +216,7 @@
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\CinemaController.cs",
               "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\CinemaController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\CinemaController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T16:50:59.649Z",
               "EditorCaption": ""
@@ -242,8 +231,7 @@
               "RelativeToolTip": "FilmesAPI\\Models\\Cinema.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T15:27:31.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T15:27:31.558Z"
             },
             {
               "$type": "Document",
@@ -255,8 +243,7 @@
               "RelativeToolTip": "FilmesAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T15:59:11.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T15:59:11.377Z"
             }
           ]
         }
