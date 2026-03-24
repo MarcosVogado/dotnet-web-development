@@ -728,6 +728,10 @@
           "filmeId": {
             "type": "integer",
             "format": "int32"
+          },
+          "cinemaId": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -782,6 +786,13 @@
           },
           "readEnderecoDto": {
             "$ref": "#/components/schemas/ReadEnderecoDto"
+          },
+          "sessoes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ReadSessaoDto"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -826,6 +837,13 @@
           "horaDaConsulta": {
             "type": "string",
             "format": "date-time"
+          },
+          "sessoes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ReadSessaoDto"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false
