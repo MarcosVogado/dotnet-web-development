@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
               "ToolTip": "C:\\Users\\marco\\OneDrive\\Documents\\work\\dotnet-web-development\\1-FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvx8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T18:30:02.664Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\CreateSessaoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T18:27:00.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T18:27:00.489Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "FilmesAPI\\Profiles\\FilmeProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T18:03:30.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T18:03:30.456Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "FilmesAPI\\Profiles\\CinemaProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T18:01:50.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T18:01:50.539Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\ReadCinemaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T18:00:05.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T18:00:05.541Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\ReadFilmeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T17:59:09.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T17:59:09.844Z"
             }
           ]
         }
