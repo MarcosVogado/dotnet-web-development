@@ -222,6 +222,11 @@
         "Name": "take",
         "Type": "System.Int32",
         "IsRequired": false
+      },
+      {
+        "Name": "nomeCinema",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
