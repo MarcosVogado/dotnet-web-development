@@ -44,6 +44,16 @@
         "tags": [
           "Cinema"
         ],
+        "parameters": [
+          {
+            "name": "enderecoId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "Success",
