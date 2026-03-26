@@ -639,14 +639,23 @@
         }
       }
     },
-    "/Sessao/{id}": {
+    "/Sessao/{filmeId}/{cinemaId}": {
       "get": {
         "tags": [
           "Sessao"
         ],
         "parameters": [
           {
-            "name": "id",
+            "name": "filmeId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "cinemaId",
             "in": "path",
             "required": true,
             "schema": {
@@ -851,7 +860,11 @@
       "ReadSessaoDto": {
         "type": "object",
         "properties": {
-          "id": {
+          "filmeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cinemaId": {
             "type": "integer",
             "format": "int32"
           }
